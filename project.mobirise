@@ -44,7 +44,7 @@
     "versionPublish": "5.5.2",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "favicon": "@PROJECT_PATH@/assets/images/logo.only-128x127.png",
     "mbrsiteDomain": "lecf31jig9",
     "robotsSwitcher": false,
